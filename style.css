@@ -1,0 +1,45 @@
+html {
+    border: 3px solid red;
+    margin: 10px;
+    padding: 0px;
+    
+}
+ h1 {   
+    text-align: center horizontal;
+    background-color:black;
+    font-family: Helvetica;
+     font-size: 100px;
+     font-weight: bold;
+      color: khaki;
+      background-image: url('pattern.jpeg')
+      }
+.brushh2{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white; 
+    background-color:mediumspringgreen
+}
+h4{
+    font-family:Helvetica;
+    font-weight:bold;
+    color: blue;
+}
+h3{
+    text-align: left;
+    font-family: Helvetica; 
+}
+.frameh2 {
+    background-color:palevioletred;
+    font-family: Helvetica;
+    font-size:32px;
+    font-weight: bold;
+    color: white;
+}
+.Painth2{
+    background-color: skyblue;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;   
+}
+
